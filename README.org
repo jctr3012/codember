@@ -1,0 +1,28 @@
+* Challenges codember
+Challenges results in:
+- python
+- typescript
+- javascript
+- c#
+- perl
+- c++
+- rust
+- go
+- lua
+- julia
+- php
+- hazkel
+- kotlin 
+- dart
+- java 
+- elixir
+- crystal 
+- lisp 
+- ruby 
+- clojure 
+- c 
+- prolog
+- bash
+- octave
+
+Documentation in latext, markdown and org-mode
